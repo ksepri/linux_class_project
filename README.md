@@ -1,4 +1,4 @@
-Autor: Ksenia Prybylskaya, Bioinformatyka, 2025/2026
+Autor: Ksenia P, Bioinformatyka, 2025/2026
 Projekt: notatnik, w którym utworzysz listę rzeczy do zrobienia w danym dnu. 
 
 Program znajduje się w pliku 'main.sh'. Używa LaTeX do tworzenia pdf-plików, pakietu evince do ich obsługi. Aby program działał poprawnie, konieczna jest obecność podkatalogów 'days_txt', 'days_tex' oraz 'days_pdf'.
